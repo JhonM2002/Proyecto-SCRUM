@@ -3,7 +3,7 @@
 
 **Product Owner**: Maria Mendoza
 
-**Scrum Master**: Esteban Bajaña
+**Scrum Master**: Daniel Oña
 
 **Equipo SCRUM**: Jhon Morales, José Merchán, Dario Palma
 

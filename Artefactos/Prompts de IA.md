@@ -4,7 +4,7 @@
 ### **SPRINT I - FUNCIONALIDADES BÁSICAS**
 #### **PLANIFICACIÓN**
 ##### **PROMPT 1:**  
-*"Modifica este .md para que concuerde con un artefacto de Scrum, prioriza, define tareas de cada historia de usuario y coloca estimaciones en cada tarea."*
+*"Definir un artefacto que concuerde con el ciclo de vida de Scrum, prioriza, define tareas de cada historia de usuario y coloca estimaciones en cada tarea."*
 
 ---
 
